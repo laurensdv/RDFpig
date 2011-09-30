@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/guava-r09.jar"/>
+	<classpathentry kind="lib" path="lib/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="lib/openrdf-sesame-2.4.0-onejar.jar"/>
+	<classpathentry kind="lib" path="lib/pig-0.9/pig-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/pig-0.9/zebra-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/elephant-bird/elephant-bird-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/elephant-bird/google-collect-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/elephant-bird/protobuf-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/elephant-bird/yamlbeans-0.9.3.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop/hadoop-core-0.20.203.0.jar"/>
+	<classpathentry kind="lib" path="lib/logging/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/logging/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/logging/jul-to-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/logging/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/logging/log4j-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/logging/logback-classic-0.9.28.jar"/>
+	<classpathentry kind="lib" path="lib/logging/logback-core-0.9.28.jar"/>
+	<classpathentry kind="lib" path="lib/logging/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/lzo/hadoop-lzo-0.4.13.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
