@@ -1,0 +1,2 @@
+#Q
+SELECT ?S ?O ?O2 WHERE { ?S ?P ?O . ?O <http://www.w3.org/2000/01/rdf-schema#subClassOf> ?O2 }
