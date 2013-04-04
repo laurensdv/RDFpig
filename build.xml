@@ -32,6 +32,7 @@
 
 	<target name="jar" depends="compile">
 		<jar destfile="${JAR_LOCATION}" basedir="${BUILD_PATH}">
+			<zipgroupfileset dir="lib" includes="*.jar,elephant-bird/*.jar" /> 
 		</jar>
 	</target>
 	

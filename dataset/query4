@@ -1,0 +1,2 @@
+#Q
+CONSTRUCT { ?S ?P ?O } WHERE { ?S <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Executive_(government)> . ?S <http://xmlns.com/foaf/0.1/based_near> <http://dbpedia.org/resource/Brussels> . ?S ?P ?O . }

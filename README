@@ -3,7 +3,11 @@
 
 1. Install hadoop 1.0 locally into $HADOOP_HOME
 
-2. Execute the RDFPig main using hadoop
+2. Build a one-jar of the project
+
+ant jar
+
+3. Execute the RDFPig main using hadoop
 
 $HADOOP_HOME/bin/hadoop jar RDFPig.jar eu.larkc.RDFPig.Main \
                            ./dataset/query1 ./dataset/data.nt \
